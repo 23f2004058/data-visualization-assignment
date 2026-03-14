@@ -4,5 +4,5 @@
   "dataset_name": "UNICEF - Children and Armed Conflict 2024",
   "dataset_url": "https://www.unicef.org/press-releases/not-new-normal-2024-one-worst-years-unicefs-history-children-conflict",
   "insight": "One in every six children on Earth grows up in a war zone",
-  "publish_email": false
+  "publish_email": true
 }
