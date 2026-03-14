@@ -1,0 +1,11 @@
+{
+  "prompt": "Fine art photograph of exactly six children's shadows cast on a pale concrete wall at golden hour. From left to right: Shadow 1 jumping with arms up, Shadow 2 running, Shadow 3 with arms spread wide, Shadow 4 skipping, Shadow 5 playing, Shadow 6 fragmenting and dissolving into dark smoke and ash particles. The dissolving shadow should be clearly breaking apart. Warm orange sunset backlighting creates long dramatic shadows. Textured weathered wall surface. Minimalist composition. High contrast between solid shadows and dissolving shadow. Emotional and symbolic. No human figures visible, only shadows. No text. Cinematic lighting.",
+  "model": "DALL-E 3",
+  "dataset_name": "UNICEF - Children and Armed Conflict 2024",
+  "dataset_url": "https://www.unicef.org/press-releases/not-new-normal-2024-one-worst-years-unicefs-history-children-conflict",
+  "insight": "One in every six children on Earth grows up in a war zone",
+  "publish_email": false
+}
+```
+
+**Note:** If you use Midjourney, change `"model": "Midjourney v6.1"` and update the prompt to match what you actually used.
