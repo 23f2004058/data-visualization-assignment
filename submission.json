@@ -6,6 +6,3 @@
   "insight": "One in every six children on Earth grows up in a war zone",
   "publish_email": false
 }
-```
-
-**Note:** If you use Midjourney, change `"model": "Midjourney v6.1"` and update the prompt to match what you actually used.
